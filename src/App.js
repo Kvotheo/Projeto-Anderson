@@ -26,7 +26,7 @@ function App() {
               />
               <span className= "focus-input" data-placeholder="Email"></span>
             </div>
-
+//oi
             <div className="wrap-input">
               <input 
               className={password !== "" ? 'has-val input' : 'input'}
