@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
-import img from "./assets/icone.svg.svg"
-import "./styles.css"
+import img from "./assets/icone.svg.svg";
+import "./styles.css";
 
 function App() {
   const [email, setEmail] = useState("")
